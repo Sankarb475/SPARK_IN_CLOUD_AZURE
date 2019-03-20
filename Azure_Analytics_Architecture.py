@@ -69,8 +69,9 @@ Storage :: components that are used to store the ingested, intermediate, and fin
                        ie - Azure Document DB, Azure SQL Database, Azure SQL Data Warehouse, Azure Redis Cache, Azure Search,
                        and HDInsight running HBase.
             
-    
 
+            
+Processing :: Azure batch, 
 
 
     
