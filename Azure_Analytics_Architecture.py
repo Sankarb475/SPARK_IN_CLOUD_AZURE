@@ -71,8 +71,23 @@ Storage :: components that are used to store the ingested, intermediate, and fin
             
 
             
-Processing :: Azure batch, 
+Processing :: 
+        Batch Processing :: Azure batch, Azure HDInsight (Spark | Hive), Azure SQL Data warehouse, Azure data lake analytics
+        
+        Stream Processing :: Azure Stream analytics, Azure HDInsight (Storm and Spark Streaming), Event processor host (web job)
+  
 
-
+Intelligence :: you can create intelligent report using the processed data after processing using this.
+            Cognitive services and Azure ML.
+            
+            
+Analytics client (Delivery) :: Power BI, Excel, API's, command line etc
+        
+        
+Governance and security :: Azure data catalog, HDInsight Metadata stores, Azure active directory
+        
+        
+        
+            
     
 
