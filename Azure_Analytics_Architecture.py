@@ -86,7 +86,14 @@ Analytics client (Delivery) :: Power BI, Excel, API's, command line etc
         
 Governance and security :: Azure data catalog, HDInsight Metadata stores, Azure active directory
         
-        
+============================================================================================================================   Azure Storage ::
+Azure Storage uses an auto-partitioning system that automatically load-balances your data based on traffic. This
+means that as the demands on your application grow, Azure Storage automatically allocates the appropriate
+resources to meet them.
+
+
+
+1) Storage BLOB :: 
         
             
     
