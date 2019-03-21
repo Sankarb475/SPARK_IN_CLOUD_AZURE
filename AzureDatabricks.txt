@@ -47,5 +47,24 @@ Create an Azure Databricks workspace ::
 ==============================================================================================================================
 Go to portal.azure.com and in home page you will find the icon that says "Azure Databricks", click on it.
 
-You will get option to create one workspace. Once you done creating it
+You will get a window to create one workspace. Once you done creating it, pin that to dashboard.
+
+go to the workspace you have created and click on "Launch workspace". You will be redirected to the Azure Databricks portal.
+
+You can now create new cluster by clicking on "new cluster".
+
+In Azure Databricks you can create two different types of clusters: standard and high concurrency. Standard clusters are the default and can be used with Python, R, Scala, and SQL. High-concurrency clusters are tuned to provide the efficient resource utilization, isolation, security, and the best performance for sharing by multiple concurrently active users. High concurrency clusters support only SQL, Python, and R languages.
+
+-- One error you should be very much aware of which I have faced many a times is that if you are consuming multiple resources 
+under a single resource group, Azure might not let you do it. Because it has certain resource limits, especially if you are using a free trial account. In case if you are paying real time, you can ask Azure customer care to extend the resource limit.
+
+Before you go on and create a new cluster you should know this that 
+1 DBU = one Databricks unit and 
+1 Driver :: 14.0 GB Memory, 4 Cores, 0.75 DBU Cost $0.40 per DBU
+
+-- When you are going to be creating a BLOB, you need to have an already created container.
+
+
+
+
 
