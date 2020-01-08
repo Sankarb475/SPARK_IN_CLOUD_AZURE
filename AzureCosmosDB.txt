@@ -1,0 +1,8 @@
+Azure cosmos db allows you to choose from a number of different databases, you would choose based on your requirement.
+
+allowed Databases ::
+1) Core(SQL)
+2) Azure cosmos DB for MongoDB API
+3) Cassandra
+4) Azure Table
+5) Gremlin (graph)
