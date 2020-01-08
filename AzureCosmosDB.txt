@@ -6,3 +6,8 @@ allowed Databases ::
 3) Cassandra
 4) Azure Table
 5) Gremlin (graph)
+
+
+4) Azure Table ::
+Azure Table storage is a service that stores structured NoSQL data in the cloud, providing a key/attribute store with a schemaless design. Because Table storage is schemaless, it's easy to adapt your data as the needs of your application evolve.
+
