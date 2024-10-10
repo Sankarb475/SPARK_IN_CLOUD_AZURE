@@ -1,10 +1,16 @@
 1. Compute
 Azure Virtual Machines (VMs): On-demand, scalable computing resources with full control over the OS and environment.
+
 Azure App Service: Fully managed platform for building, hosting, and deploying web apps, RESTful APIs, and mobile backends.
+
 Azure Kubernetes Service (AKS): Managed Kubernetes container orchestration service.
+
 Azure Functions: Serverless compute for running event-driven code without needing to manage infrastructure.
+  
 Azure Batch: Cloud-scale job scheduling and compute management for large-scale parallel and HPC applications.
+
 Azure Container Instances (ACI): Easily run containers without managing servers.
+
 Azure Service Fabric: Distributed systems platform for building and managing scalable microservices applications.
 
 
